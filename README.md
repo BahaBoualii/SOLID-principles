@@ -3,6 +3,8 @@
 
 This repository provides practical examples of implementing the **SOLID principles** in Java. Each principle is illustrated with both **bad examples** (non-SOLID) and **refactored examples** (SOLID-compliant), making it easier to understand how to design flexible, maintainable, and readable code.
 
+I have written a detailed blog post to dive deeper into the theoretical aspect of these principles. You can read it [here](https://secured-polygon-902513.framer.app/blog/solid-principles).
+
 ![solid](https://github.com/user-attachments/assets/1c881840-16f2-45fc-bd24-5d7718c2af44)
 
 ## Table of Contents
